@@ -6,7 +6,7 @@ public class Add2Commits {
 
     static void main(String args[]) {
 
-        System.out.println("Hello!");
+
     }
 
 }
